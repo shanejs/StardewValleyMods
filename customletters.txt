@@ -1,3 +1,4 @@
-I love you snuggle dot com xoxoxoxox %item object 54 1 %%[#]kisses
-Dear @...^^I hope you see this %item object 54 1 %%[#]a msg from ur secret love
-Dear @...^^gift 4 you %item object 54 1 %%[#]ruby gift
+I love you snuggle dot com xoxoxoxox %item object 54 1 %%[#]kisses|
+Dear @...^^I hope you see this %item object 54 1 %%[#]a msg from ur secret love|
+Dear @...^^gift 4 you %item object 54 1 %%[#]ruby gift|
+Dear @...^^Are we gonnna have a good day today?^^^Your secret admirer
