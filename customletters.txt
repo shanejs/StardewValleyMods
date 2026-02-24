@@ -1,4 +1,8 @@
-I love you snuggle dot com xoxoxoxox %item object 54 1 %%[#]kisses|
-Dear @...^^I hope you see this %item object 54 1 %%[#]a msg from ur secret love|
-Dear @...^^gift 4 you %item object 54 1 %%[#]ruby gift|
-Dear @...^^Are we gonnna have a good day today?^^^Your secret admirer
+Dear @...^^I've been watching you. You are stronger than you realize and an inspiration to many. ^^^Your secret admirer%item object 54 1 %%[#]you are poweful|
+Dear @...^^I hope you like this gift I got for you.%item object 54 1 %%[#]a msg from your secret love|
+Dear @...^^Has anyone ever told you that you have beautiful hazel eyes?%item object 54 1 %%[#]ruby gift|
+Dear @...^^Are we gonnna have a good day today?^^^Your secret admirer[#]today]
+Dear @...^^Are there cuddles available?^^^Your secret admirer[#]xoxoxox]
+Dear @...^^Would you mind if I held your hand some time?^^^Your secret admirer[#]maybe at the temple?]
+Dear @...^^Have you ever had a chocolate apple in the snowy mountains?^^^Your secret admirer[#]a treat for you]
+Dear @...^^Have I thanked you enough for when you saved my life?^^^Your secret admirer[#]your strength]
